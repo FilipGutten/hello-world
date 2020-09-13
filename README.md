@@ -1,2 +1,4 @@
 # hello-world
-Jut for practise.
+Just for practise.
+
+Som celkom fajn programátor :-) .
